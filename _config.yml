@@ -4,7 +4,7 @@ motto: "اجتماع دوستداران لینوکس سنندج"
 author: Hamid Saydi
 email: gshs99@gmail.org
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://sanlug.ir" # the base hostname & protocol for your site
+url: "https://sanlug.github.io" # the base hostname & protocol for your site
 keywords: "کامپیوتر، لینوکس، لاگ، سنندج"
 copyright: "Commons Attribution 4.0 International"
 robot: ""
