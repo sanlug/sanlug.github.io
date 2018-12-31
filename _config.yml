@@ -25,7 +25,7 @@ favicon: "assets/img/favicon.png"
 permalink: :title.html
 
 # Build settings
-markdown: Markright
+markdown: kramdown
 kramdown:
     coderay_line_numbers: nil
 encoding: utf-8
